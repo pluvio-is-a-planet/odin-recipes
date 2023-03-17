@@ -9,4 +9,4 @@ By the end of the project, I will have demonstrated my skill/knowledge in basic 
  - Images as part of the webpage
 
 Post-completion:
-    After completing the recipes project, I think I have a pretty <em>decent</em> understanding now of the git workflow, definitely much more to learn but I feel like there's some progress. As for html, I've already done a good amount of html in the past, as I was learning it <em>very</em> on and off. But this project feels like a really good start to this course, I will be working on this repo more as I progress through the course, but for now this is it.
+    After completing the recipes project, I think I have a pretty <em>decent</em> understanding now of the git workflow, definitely much more to learn but I feel like there's some progress. As for html, I've already done a good amount of html in the past, as I was learning it <em>very</em> on and off. But this project feels like a really good start to this course.
