@@ -1,0 +1,27 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: hsl(200, 25%, 10%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h1,
+a {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.link-container#mac-and-cheese,
+.link-container#koeksisters,
+.link-container#curry-vetkoek { 
+    width: auto;
+    height: 50px;
+    font-size: 25px;
+    text-align: center;
+}
